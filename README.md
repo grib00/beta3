@@ -1,5 +1,6 @@
 # beta3
 
+Experimental minimal Hammond organ emulation, on linux/JACK.
 
 ## Notes
 
@@ -9,6 +10,4 @@ Header files in /usr/include/jack/*.h
 
 ## Sites
 
-another virtual Hammond project: http://lionel.cordesses.free.fr/lassoMain.html
-
-
+Another virtual Hammond project: http://lionel.cordesses.free.fr/lassoMain.html
