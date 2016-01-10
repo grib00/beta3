@@ -9,6 +9,6 @@ Header files in /usr/include/jack/*.h
 
 ## Sites
 
-http://lionel.cordesses.free.fr/lassoMain.html
+another virtual Hammond project: http://lionel.cordesses.free.fr/lassoMain.html
 
 
